@@ -1,0 +1,1 @@
+print("Xin chao, toi la Ha Huy Dat, msv: 2421030171, lop: DCCTCT68B")
